@@ -1,7 +1,7 @@
 <h1 style="color:blue">Hospital Mangment System Made with Laravel 8</h1>
 <h3>Front End</h3>
 
-<img src="FrontEnd.png" />
+<img src="FrontEnd.PNG" />
 
 <h3>Back End</h3>
 
